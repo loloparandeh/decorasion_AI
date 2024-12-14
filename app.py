@@ -33,4 +33,4 @@ if uploaded_file and button:
     st.markdown(translated, unsafe_allow_html=True)  # Allow HTML for Farsi characters
 
 # Info section (same as before)
-st.info('Developed By : Ali Jahani satreyek@gmail.com')
+st.info('Developed By : Mahdi    loloparandeh@gmail.com')
